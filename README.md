@@ -1,7 +1,7 @@
 ProductoCrud Component
 El componente ProductoCrud es parte de una aplicación web desarrollada con ReactJS, TypeScript y PrimeReact. La aplicación tiene como objetivo gestionar productos y categorías, interactuando con una API REST para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos y categorías.
 
-%%Integrantes:
+== Integrantes:
 Cherley Maria Caiza Chasipanta
 Edison Henry Carvajal Pabón
 
